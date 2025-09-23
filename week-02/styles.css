@@ -1,0 +1,64 @@
+h1{
+    color: #fffefd;
+    font-family: "Instrument Sans" , sans-serif;
+    font-weight:80 ;
+    background-color: #000000;
+    text-align: center;
+    padding: 20px;
+    margin:0cm;
+}
+.intro{
+    color: #602c8e;
+    text-align: center;
+
+}
+.profile{
+   height: 400px;
+   margin-top: 10px;
+   border: #602c8e 15px solid;
+}
+.Motto{
+    font-family: Montserret, sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    width: 500px;
+    margin: 50px auto;
+    margin-bottom: 1px;
+}
+#Motto-footer{
+    font-family: Montserret, sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    text-align: center;
+    width: 500px;
+    margin: 50px auto;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+.Life-Journey{
+    font-family: "Instrument Sans" , sans-serif;
+    font-weight: 60 ;
+    color: #fffefd;
+    background-color: #000000;
+    padding: 6px;
+    border-bottom: #ffffff 1px solid;
+}
+.Skills{
+    font-family: "Instrument Sans" , sans-serif;
+    font-weight: 60 ;
+    color: #ffffff;
+    background-color: #000000;
+    padding: 6px;
+    border-bottom: #ffffff 1px solid;
+    
+}
+.footer{
+    font-family: "Instrument Sans" , sans-serif;
+    font-weight: 60 ;
+    color: #fffefd;
+    background-color: #000000;
+    text-align: center;
+    padding: 6px;
+    margin-top: 0px;
+}
